@@ -135,7 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+venv_charbot/
 # Spyder project settings
 .spyderproject
 .spyproject
